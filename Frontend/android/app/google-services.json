@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "917626147019",
+    "project_id": "smart-school-5d3fc",
+    "storage_bucket": "smart-school-5d3fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917626147019:android:0b0087095d9ea3455ecb4e",
+        "android_client_info": {
+          "package_name": "com.vamsicham.smart_school"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917626147019-0qpe4je38h7hr7m0j6iet02lrt1gc794.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAonB1kyumYIDb0dX9GNb6InUuseUPILW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917626147019-0qpe4je38h7hr7m0j6iet02lrt1gc794.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
